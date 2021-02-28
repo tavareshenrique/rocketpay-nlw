@@ -192,7 +192,7 @@ Esse End-Point permit a criação de um usuário
 
 - **URL**
 
-  `/accounts/transaction`
+  `/users`
 
 - **Method:**
 

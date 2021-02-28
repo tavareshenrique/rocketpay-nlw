@@ -25,6 +25,8 @@
   </sub>
 </div>
 
+<div align="center" style="margin-top: 16px" ><a href="https://insomnia.rest/run/?label=%5BRocketseat%5D%20Rocketpay&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ftavareshenrique%2Frocketpay-nlw%2Fmain%2Fassets%2FInsomnia_2021-02-28.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a></div>
+
 # :pushpin: Conteúdo
 
 - [API](#floppy_disk-api)

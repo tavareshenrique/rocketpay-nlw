@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/rocketpay-nlw/main/assets/logo.png" alt="Rocketpay" width="280"/>
+   <img src="https://raw.githubusercontent.com/tavareshenrique/rocketpay-nlw/211393e0de5fd98d43682b5337cc6f9e125cf7b0/assets/logo.svg" alt="Rocketpay" width="280"/>
 </p>
 
 <p align="center">

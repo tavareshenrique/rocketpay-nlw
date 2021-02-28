@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/rocketpay-nlw/main/assets/logo.png" alt="MoveIt" width="280"/>
+   <img src="https://raw.githubusercontent.com/tavareshenrique/rocketpay-nlw/main/assets/logo.png" alt="Rocketpay" width="280"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 > <b>Rocketpay</b> é uma API criada utilizando Elixir e Phoenix durante a NLW#4 da [Rocketseat](https://github.com/Rocketseat). Esse projeto permite a transação de valores entre 2 usuários.
 
 <div align="center">
-  <sub>O <strong>MoveIt</strong> foi desenvolvido com ❤︎ pelo
+  <sub>O <strong>Rocketpay</strong> foi desenvolvido com ❤︎ pelo
     <a href="https://github.com/tavareshenrique">Henrique Tavares</a>
   </sub>
 </div>

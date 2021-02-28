@@ -27,13 +27,13 @@
 
 # :pushpin: Conteúdo
 
-- [API](#floppy-disk-api)
+- [API](#floppy_disk-api)
   - [Accounts](#accounts)
     - [Deposit](#deposit)
     - [Withdraw](#withdraw)
     - [Transaction](#transaction)
   - [User](#user)
-    - [Create User](#user-create-user)
+    - [Create User](#create-user)
 - [Tecnologias](#computer-tecnologias)
 - [Executando](#construction_worker-executando)
 - [Autores](#computer-autores)
@@ -184,7 +184,7 @@ Esse End-Point permite a transferência entre dois usuários.
 
 # User
 
-## Create user
+## Create User
 
 Esse End-Point permit a criação de um usuário
 
